@@ -38,3 +38,11 @@ This project focuses on **file handling, data structuring, and menu-driven progr
 - books.txt
 - borrowed_books.txt
 - readme.md
+
+## Project Timeline
+- **Start Date:** Jan 2022  
+- **End Date:** Mar 2022  
+- **Duration:** 3 months  
+- **Role:** Group Leader  
+
+
