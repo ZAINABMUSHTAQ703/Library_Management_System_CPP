@@ -2,6 +2,12 @@ A console-based Library Management System developed in C++ to efficiently manage
 This project focuses on **file handling, data structuring, and menu-driven programming** to provide a fully functional and secure library management experience.
 
 --
+## Project Timeline
+- **Start Date:** Jan 2022  
+- **End Date:** Mar 2022  
+- **Duration:** 3 months  
+- **Role:** Group Leader  
+
 **Features**
 
 ### **Admin Authentication**
@@ -39,10 +45,5 @@ This project focuses on **file handling, data structuring, and menu-driven progr
 - borrowed_books.txt
 - readme.md
 
-## Project Timeline
-- **Start Date:** Jan 2022  
-- **End Date:** Mar 2022  
-- **Duration:** 3 months  
-- **Role:** Group Leader  
 
 
